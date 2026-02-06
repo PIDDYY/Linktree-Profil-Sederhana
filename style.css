@@ -87,6 +87,7 @@ body{
 .sosmed:hover{
     background-color: pink;
     color: white;
+    transform: scale(1.05);
 }
 
 .sosmed i{
