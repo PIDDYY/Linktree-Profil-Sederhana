@@ -98,8 +98,8 @@ body{
 .copyright{
     display: flex;
     flex-direction: column;
-    position: absolute;
-    bottom: 1px;
+    position: fixed;
+    bottom: 0px;
     font-size: 0.7rem;
     color: aliceblue;
 }
